@@ -7,7 +7,7 @@
 body {
   background-color: #d9dcd6;
 }
-
+/* took out period because no more header class */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,15 +16,18 @@ header {
   color: #ffffff;
 }
 
+/* took out period because no more header class */
 header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/* took out period because no more header class */
 header h1 .seo {
   color: #d9dcd6;
 }
 
+/* took out period because no more header class */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -33,10 +36,12 @@ header nav {
   font-size: 20px;
 }
 
+/* took out a period and change div to nav */
 header nav ul {
   list-style-type: none;
 }
 
+/* took out a period and change div to nav */
 header nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -189,6 +194,7 @@ p {
   font-size: 36px;
 }
 
+/* took out period because no more footer class */
 footer {
   padding: 30px;
   clear: both;
@@ -197,6 +203,7 @@ footer {
   text-align: center;
 }
 
+/* took out period because no more footer class */
 footer h2 {
   font-size: 20px;
 }
